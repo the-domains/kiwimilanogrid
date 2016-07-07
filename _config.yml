@@ -1,0 +1,14 @@
+layout_spectrum: 0.6610035388730466
+typography_spectrum: 0.759845640975982
+color:
+  brandStrength: 0.13163810945115983
+  lightness: 0.6344950089696795
+  saturation: 0.9083465216681361
+  rhythmicContrast: 0.5529426888097078
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: KiwiMilanoGrid
