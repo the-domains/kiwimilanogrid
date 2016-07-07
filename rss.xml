@@ -4,7 +4,7 @@
         <description><![CDATA[CiaoMilano]]></description>
         <link>https://thegrid.ai/kiwimilanogrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 17:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 17:32:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kiwimilanogrid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/kiwimilanogrid/fe3207e1-f143-4165-9262-c5192742b88f/index.html</link>
             <guid isPermaLink="false">fe3207e1-f143-4165-9262-c5192742b88f</guid>
             <pubDate>Thu, 07 Jul 2016 17:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c4ee2d4-8b3f-4e7e-8b3c-ee0f660aa46b.jpg">]]></description>
-            <link>https://thegrid.ai/kiwimilanogrid/cd261faa-a198-48a7-b05d-c1e3089af833/index.html</link>
-            <guid isPermaLink="false">cd261faa-a198-48a7-b05d-c1e3089af833</guid>
-            <pubDate>Thu, 07 Jul 2016 17:21:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
