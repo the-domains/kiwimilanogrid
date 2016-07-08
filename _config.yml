@@ -1,14 +1,14 @@
-layout_spectrum: 0.6610035388730466
-typography_spectrum: 0.759845640975982
+layout_spectrum: 0.49595610331743956
+typography_spectrum: 0.018388651544228196
 color:
-  brandStrength: 0.13163810945115983
-  lightness: 0.6344950089696795
-  saturation: 0.9083465216681361
-  rhythmicContrast: 0.5529426888097078
+  brandStrength: 0.6511928553227335
+  lightness: 0.8540496965870261
+  saturation: 0.6949183726683259
+  rhythmicContrast: 0.5663169859908521
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: KiwiMilano
