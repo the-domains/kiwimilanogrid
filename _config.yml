@@ -1,4 +1,3 @@
-layout_spectrum: 0.49595610331743956
 typography_spectrum: 0.018388651544228196
 color:
   brandStrength: 0.6511928553227335
@@ -11,4 +10,16 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-name: KiwiMilano
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/24ee4edc-06b6-4f5f-8d2c-c2bc90f55ccb.jpg
+layout_spectrum: 0.49595610331743956
+author:
+  name: Roberto Peretta
+  email: roberto.peretta@kiwimilano.it
+  url: 'http://kiwimilano.it/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/90a9832e-01f6-46e8-bd07-f5c186fc9f55.gif
+name: CiaoMilano
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/188dffe6-2a55-4d79-9f0d-87993a9c1585.ico
