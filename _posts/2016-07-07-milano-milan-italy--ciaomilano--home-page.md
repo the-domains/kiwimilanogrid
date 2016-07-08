@@ -26,10 +26,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://ciaomilano.it/e/'
 title: 'Milano Milan Italy .:. CiaoMilano .:. Home Page'
-datePublished: '2016-07-07T20:23:39.935Z'
-dateModified: '2016-07-07T20:23:32.139Z'
-starred: false
+datePublished: '2016-07-08T14:37:48.143Z'
+dateModified: '2016-07-08T14:37:47.734Z'
 sourcePath: _posts/2016-07-07-milano-milan-italy--ciaomilano--home-page.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
