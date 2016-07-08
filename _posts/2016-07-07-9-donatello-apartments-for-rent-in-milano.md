@@ -59,10 +59,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.airbnb.com/rooms/12602112'
 title: 9 Donatello - Apartments for Rent in Milano
-datePublished: '2016-07-07T20:19:09.837Z'
-dateModified: '2016-07-07T20:18:03.337Z'
-starred: false
+datePublished: '2016-07-08T14:37:52.490Z'
+dateModified: '2016-07-08T14:37:52.156Z'
 sourcePath: _posts/2016-07-07-9-donatello-apartments-for-rent-in-milano.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
